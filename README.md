@@ -37,7 +37,7 @@ To install and run the game, follow these steps:
 
 1. Clone the repository:
 ```
- git clone <repo-url>
+ git clone https://github.com/TheAditya700/uno_game
  cd uno_game
 ```
 
